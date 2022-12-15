@@ -1,0 +1,32 @@
+MAKİNE ÖĞRENMESİ
+
+
+Makine öğrenmesi, veri ve algoritmaların kullanıma odaklanan doğruluk payını aşamalı olarak artıran bir yapay zeka ve bilgisayar bilimi dalıdır. İnsanların öğrenme şekillerini taklit etmeye çalışır.
+
+Makine öğrenmesi algoritmasının öğrenme sistemini üç başlık altında inceleyebiliriz:
+
+İlk olarak makine öğrenmesi bir karar verme sürecidir: Makine öğrenmesi algoritmaları bir tahmin ya da sınıflandırma yapmak için kullanılır. Verileri etiketli veya etiketsiz olarak girerek makinenin doğru tahmin yaptırması amaçlanır.
+
+Daha sonra, makine öğrenmesinde bir hata işlevi vardır. Bu hata işlevi, modelin tahminini değerlendirmek için kullanılır. 
+
+Son olarak, bir model optimizasyonu süreci söz konusudur. Model, eğitim kümesindeki veri noktalarına daha iyi uyuyorsa, bu durumda ağırlıklar bilinen örnek ve model tahmini arasındaki çelişkiyi azaltmak üzere düzenlenir. Algoritma bu değerlendirmeyi tekrarlayarak süreci en iyi şekline ulaştırmaya çalışır ve bu doğrultuda kendisini sürekli günceller.
+
+3 temel makine öğrenmesi yöntemi vardır. Bunlar:
+Gözetimli makine öğrenmesi
+Gözetimsiz makine öğrenmesi
+Yarı gözetimli makine öğrenmesi.
+
+Gözetimli makine öğrenmesi, verileri sınıflandırmak ve sonuçları doğru bir şekilde tahmin eden algoritmaları eğitmek için etiketli veri kümelerini kullanması şeklinde tanımlanır. 
+
+Gözetimsiz makine öğrenmesi, denetimsiz makine öğrenmesi olarak da bilinen, makine öğrenmesi algoritmalarını çözümlemek ve etiketsiz veri kümelerini kümelemek için kullanır. 
+
+Yarı gözetimli makine öğrenmesi, yarı gözetimli öğrenme, gözetimli ve gözetimsiz tür arasında bir orta yol sunar. Eğitim sırasında, daha geniş, etiketsiz bir veri kümesinden sınıflandırmaya ve özellik ayrıştırmaya yön vermek için daha küçük, etiketli bir veri kümesi kullanır. 
+
+Makine öğrenmesi, günlük yaşamımızda birçok alanda karşımıza çıkar. Bunlara örnek olarak:
+Konuşma tanıma
+Müşteri hizmetleri
+Bilgisayar görüşü
+Arama motorları
+Otomatik hisse senedi alım satımı
+
+
